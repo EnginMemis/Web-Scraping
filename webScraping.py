@@ -1,5 +1,3 @@
-from email.utils import decode_rfc2231
-from operator import le
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from time import sleep
